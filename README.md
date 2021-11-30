@@ -1,7 +1,11 @@
-
 # OpenStereo
+
+This is an awesome open source toolbox for stereo matching.
+
 ## Supported Methods:
 
+- [x] BM
+- [x] SGM(T-PAMI'07)
 - [x] GCNet(ICCV'17)
 - [x] PSMNet(CVPR'18)
 - [x] StereoNet(ECCV'18)
