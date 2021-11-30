@@ -2,13 +2,13 @@
 # OpenStereo
 ## Supported Methods:
 
-- [x] GCNet(17)
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] A
+- [x] GCNet(ICCV'17)
+- [x] PSMNet(CVPR'18)
+- [x] StereoNet(ECCV'18)
+- [x] CFPNet(ICIEA'19)
+- [x] HSMNet(CVPR'19)
+- [x] GwcNet(CVPR'19)
+- [x] STTR(ICCV'21)
 
 ## Citation
 ```tex
