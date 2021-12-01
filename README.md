@@ -14,7 +14,50 @@ This is an awesome open source toolbox for stereo matching.
 - [x] GwcNet(CVPR'19)
 - [x] STTR(ICCV'21)
 
+## KITTI2015 Validation Results
+
+|  Models   | bad-1(％) | bad-3(％) | bad-5(％) | EPE  | RMSE |
+| :-------: | :-------: | :-------: | :-------: | :--: | :--: |
+|    BM     |           |           |           |      |      |
+|    SGM    |           |           |           |      |      |
+|   GCNet   |           |           |           |      |      |
+|  PSMNet   |           |           |           |      |      |
+| StereoNet |           |           |           |      |      |
+|  CFPNet   |           |           |           |      |      |
+|  HSMNet   |           |           |           |      |      |
+|  GwcNet   |           |           |           |      |      |
+|   STTR    |           |           |           |      |      |
+
+## PlantStereo Validation Results
+
+|  Models   | bad-1(％) | bad-3(％) | bad-5(％) | EPE  | RMSE |
+| :-------: | :-------: | :-------: | :-------: | :--: | :--: |
+|    BM     |           |           |           |      |      |
+|    SGM    |           |           |           |      |      |
+|   GCNet   |           |           |           |      |      |
+|  PSMNet   |           |           |           |      |      |
+| StereoNet |           |           |           |      |      |
+|  CFPNet   |           |           |           |      |      |
+|  HSMNet   |           |           |           |      |      |
+|  GwcNet   |           |           |           |      |      |
+|   STTR    |           |           |           |      |      |
+
+## PlantStereo Test Results
+
+|  Models   | bad-1(％) | bad-3(％) | bad-5(％) | EPE  | RMSE |
+| :-------: | :-------: | :-------: | :-------: | :--: | :--: |
+|    BM     |           |           |           |      |      |
+|    SGM    |           |           |           |      |      |
+|   GCNet   |           |           |           |      |      |
+|  PSMNet   |           |           |           |      |      |
+| StereoNet |           |           |           |      |      |
+|  CFPNet   |           |           |           |      |      |
+|  HSMNet   |           |           |           |      |      |
+|  GwcNet   |           |           |           |      |      |
+|   STTR    |           |           |           |      |      |
+
 ## Citation
+
 ```tex
 @misc{OpenStereo,
     title={OpenStereo},
