@@ -12,7 +12,7 @@ This is an awesome open source toolbox for stereo matching.
 - [x] CFPNet(ICIEA'19)
 - [x] HSMNet(CVPR'19)
 - [x] GwcNet(CVPR'19)
-- [x] STTR(ICCV'21)
+- [ ] STTR(ICCV'21)
 
 ## KITTI2015 Validation Results
 
