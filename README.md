@@ -10,8 +10,10 @@ This is an awesome open source toolbox for stereo matching.
 - [x] PSMNet(CVPR'18)
 - [x] StereoNet(ECCV'18)
 - [x] CFPNet(ICIEA'19)
+- [x] ECA(AAAI'18)
 - [x] HSMNet(CVPR'19)
 - [x] GwcNet(CVPR'19)
+- [x] AnyNet(ICRA'19)
 - [ ] STTR(ICCV'21)
 
 ## KITTI2015 Validation Results
@@ -24,8 +26,10 @@ This is an awesome open source toolbox for stereo matching.
 |  PSMNet   |           |           |           |      |      |
 | StereoNet |           |           |           |      |      |
 |  CFPNet   |           |           |           |      |      |
+|    ECA    |           |           |           |      |      |
 |  HSMNet   |           |           |           |      |      |
 |  GwcNet   |           |           |           |      |      |
+|  AnyNet   |           |           |           |      |      |
 |   STTR    |           |           |           |      |      |
 
 ## PlantStereo Validation Results
@@ -38,8 +42,10 @@ This is an awesome open source toolbox for stereo matching.
 |  PSMNet   |           |           |           |      |      |
 | StereoNet |           |           |           |      |      |
 |  CFPNet   |           |           |           |      |      |
+|    ECA    |           |           |           |      |      |
 |  HSMNet   |           |           |           |      |      |
 |  GwcNet   |           |           |           |      |      |
+|  AnyNet   |           |           |           |      |      |
 |   STTR    |           |           |           |      |      |
 
 ## PlantStereo Test Results
@@ -52,8 +58,10 @@ This is an awesome open source toolbox for stereo matching.
 |  PSMNet   |           |           |           |      |      |
 | StereoNet |           |           |           |      |      |
 |  CFPNet   |           |           |           |      |      |
+|    ECA    |           |           |           |      |      |
 |  HSMNet   |           |           |           |      |      |
 |  GwcNet   |           |           |           |      |      |
+|  AnyNet   |           |           |           |      |      |
 |   STTR    |           |           |           |      |      |
 
 ## Citation
